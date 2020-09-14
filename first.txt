@@ -1,3 +1,6 @@
 git_lesson
 :::::
 iiiiS
+
+ git add
+ git commit
